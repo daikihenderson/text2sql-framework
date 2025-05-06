@@ -1,0 +1,5 @@
+[project]
+name = "text2sql-framework"
+version = "0.1.0"
+description = "Agentic text-to-SQL SDK: hand the LLM one execute_sql tool and let it explore the schema, test queries, and self-correct — no RAG, no semantic layer. 20/20 on an 80-table Spider run. Built-in tracing and scenario support."
+requires-python = ">=3.10"
